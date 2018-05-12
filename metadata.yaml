@@ -1,15 +1,16 @@
 _repo: The-Irish-Ecclesiastical-Record-Volume-1-October-1864_46603
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 46603/46603-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46603-h/images/cover.jpg
 creator:
   author:
     agent_name: Clergymen, Society of
     gutenberg_agent_id: '43871'
     url: http://www.gutenberg.org/2009/agents/43871
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46603#The-Irish-Ecclesiastical-Record-Volume-1-October-1864
 gutenberg_issued: '2014-08-17'
 gutenberg_type: Text
 identifiers:
